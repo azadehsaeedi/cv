@@ -1,0 +1,29 @@
+table{
+  border-spacing: 10px;
+}
+
+
+.picture{
+  border-radius: 50%;
+}
+.line{
+  border-top: 3px solid black;
+}
+.img{
+  display: inline-block;
+}
+.bio{
+  display: inline-block;
+  margin-left: 30px;
+}
+.without-bullet{
+  list-style-type: none;
+}
+.period{
+  display:inline-block;
+  line-height: 200%;
+}
+.details{
+  display: inline-block;
+line-height: 200%;
+}
